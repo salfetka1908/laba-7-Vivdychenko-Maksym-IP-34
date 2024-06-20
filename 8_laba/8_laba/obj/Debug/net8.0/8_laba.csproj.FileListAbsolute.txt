@@ -1,0 +1,11 @@
+C:\Users\Максим\source\repos\8_laba\8_laba\bin\Debug\net8.0\8_laba.deps.json
+C:\Users\Максим\source\repos\8_laba\8_laba\bin\Debug\net8.0\8_laba.dll
+C:\Users\Максим\source\repos\8_laba\8_laba\bin\Debug\net8.0\8_laba.pdb
+C:\Users\Максим\source\repos\8_laba\8_laba\obj\Debug\net8.0\8_laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\source\repos\8_laba\8_laba\obj\Debug\net8.0\8_laba.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\8_laba\8_laba\obj\Debug\net8.0\8_laba.AssemblyInfo.cs
+C:\Users\Максим\source\repos\8_laba\8_laba\obj\Debug\net8.0\8_laba.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\8_laba\8_laba\obj\Debug\net8.0\8_laba.dll
+C:\Users\Максим\source\repos\8_laba\8_laba\obj\Debug\net8.0\refint\8_laba.dll
+C:\Users\Максим\source\repos\8_laba\8_laba\obj\Debug\net8.0\8_laba.pdb
+C:\Users\Максим\source\repos\8_laba\8_laba\obj\Debug\net8.0\ref\8_laba.dll
